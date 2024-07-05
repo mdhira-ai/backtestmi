@@ -114,5 +114,12 @@ Finally, publish your package to npm by running:
 ```bash
 npm publish
 ```
-```
 
+
+
+```javascript
+
+import { Mybtn } from 'backtestmi'
+
+
+```
