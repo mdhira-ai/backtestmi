@@ -1,6 +1,6 @@
 {
   "name": "backtestmi",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "main": "dist/index.js",
   "type": "module",
   "scripts": {
@@ -8,8 +8,8 @@
     "build": "rollup -c"
   },
   "author": "Boreal Software Company",
-  "repository": "https://github.com/mdhira-ai/package-example-test",
-  "homepage": "https://github.com/mdhira-ai/package-example-test",
+  "repository": "https://github.com/mdhira-ai/backtestmi",
+  "homepage": "https://github.com/mdhira-ai/backtestmi",
 
   "license": "MIT",
   "description": "",
