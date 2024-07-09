@@ -1,12 +1,24 @@
-```markdown
-# Project Setup
+###  To test this library
 
-## Getting Started
+### install
+```bash
+npm i backtestmi
+```
 
+### copy and import
+```javascript
+import { Mybtn, useCount } from 'backtestmi'
+
+```
+
+## To Make Npm Package Follow This Steps
+### Getting Started
+```
 This `README.md` provides clear instructions for setting up the project, installing dependencies, configuring Rollup, and testing and publishing the package.
 
 Follow these steps to set up the project.
 
+```
 ### Step 1: Initialize the Project
 
 Run the following command to initialize the project:
@@ -116,10 +128,3 @@ npm publish
 ```
 
 
-
-```javascript
-
-import { Mybtn } from 'backtestmi'
-
-
-```

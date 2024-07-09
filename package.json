@@ -1,6 +1,6 @@
 {
   "name": "backtestmi",
-  "version": "1.0.5",
+  "version": "1.0.12",
   "main": "dist/index.js",
   "type": "module",
   "scripts": {
